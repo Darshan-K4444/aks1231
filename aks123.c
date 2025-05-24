@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 // Function declarations
 void add(int, int);
 void subtract(int, int);
